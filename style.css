@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav {
+    background-color: purple;
+    padding: 20px 0;
+
+
+}
+
+ul li {
+    list-style: none;
+    cursor: pointer;
+
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+#Features {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 2%;
+    padding: 2%;
+}
+
+#Features img {
+    width: 50%;
+    margin: 2%;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    font-size: larger;
+}
+
+.button {
+    border: 3px solid orange;
+    max-width: 130px;
+    padding: 10px 15px;
+    text-align: center;
+    font-size: 1.3em;
+    cursor: pointer;
+    margin-left: 550px;
+
+}
+
+nav a {
+    color: whitesmoke;
+    size: 200px;
+}
+
+
+#Features img {}
+
+hr {
+    background-color: brown;
+
+}
