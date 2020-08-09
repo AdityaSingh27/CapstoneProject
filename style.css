@@ -61,6 +61,7 @@ p {
 nav a {
     color: whitesmoke;
     size: 200px;
+    text-decoration: none;
 }
 
 
